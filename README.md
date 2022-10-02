@@ -2,7 +2,7 @@
 
 I'm Arati Santhanakrishnan and I'm a PhD chemical engineer turned data scientist. 
 
-I'm currently a SharpestMinds mentee and am working on learning recommender systems using the MovieLens dataset, and am looking for a data role that combines my burgeoning interest in machine learning with my background in engineering research and development. 
+I'm currently a teaching assistant for BrainStation's data science program, and am looking for a data role that combines my burgeoning interest in machine learning with my background in engineering research and development. 
 
 Other interests of mine are intelligent textbooks and intelligent tutoring systems. 
 
