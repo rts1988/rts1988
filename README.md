@@ -6,6 +6,8 @@ I'm currently a teaching assistant for BrainStation's data science program, and 
 
 Other interests of mine are intelligent textbooks and intelligent tutoring systems. 
 
+[My capstone project](https://github.com/rts1988/Duolingo_spaced_repetition) on Duolingo's spaced repetition dataset.
+
 To contact me: srividya.arati@gmail.com
 
 
