@@ -8,6 +8,8 @@ Other interests of mine are intelligent textbooks and intelligent tutoring syste
 
 [My capstone project](https://github.com/rts1988/Duolingo_spaced_repetition) on Duolingo's spaced repetition dataset.
 
+[Remaining useful life prediction on NASA turbo fan degradation](https://github.com/rts1988/Remaining_Useful_Life_LSTM)
+
 To contact me: srividya.arati@gmail.com
 
 
